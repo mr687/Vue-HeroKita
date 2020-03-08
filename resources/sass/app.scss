@@ -1,0 +1,84 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Font Awesome
+@import '~@fortawesome/fontawesome-free/scss/brands';
+@import '~@fortawesome/fontawesome-free/scss/regular';
+@import '~@fortawesome/fontawesome-free/scss/solid';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome';
+
+// Animate CSS
+@import "~animate.css";
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+h1{
+    font-size: 2.2vw !important;
+    font-weight: 700;
+}
+
+.bg-blue{
+    background-color: $blue !important;
+}
+.bg-indigo{
+    background-color: $indigo !important;
+}
+.bg-purple{
+    background-color: $purple !important;
+}
+.bg-pink{
+    background-color: $pink !important;
+}
+.bg-red{
+    background-color: $red !important;
+}
+.bg-orange{
+    background-color: $orange !important;
+}
+.bg-yellow{
+    background-color: $yellow !important;
+}
+.bg-green{
+    background-color: $green !important;
+}
+.bg-teal{
+    background-color: $teal !important;
+}
+.bg-cyan{
+    background-color: $cyan !important;
+}
+
+.color-blue{
+    color: $blue !important;
+}
+.color-indigo{
+    color: $indigo !important;
+}
+.color-purple{
+    color: $purple !important;
+}
+.color-pink{
+    color: $pink !important;
+}
+.color-red{
+    color: $red !important;
+}
+.color-orange{
+    color: $orange !important;
+}
+.color-yellow{
+    color: $yellow !important;
+}
+.color-green{
+    color: $green !important;
+}
+.color-teal{
+    color: $teal !important;
+}
+.color-cyan{
+    color: $cyan !important;
+}
